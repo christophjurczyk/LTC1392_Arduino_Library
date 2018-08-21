@@ -32,3 +32,5 @@ float current = ltc.get_current(false); // in A
 You can choose between two measurement ranges: `false` for 1 V range and `true` for 0.5 V range. This voltage range is used to measure the voltage drop over shunt resistor based on the current. The current is internally calcluated with the following equation:
 
 I_shunt = (+Vin-(-Vin))/R_shunt
+
+That's it. There are also some examples available for better understanding.
