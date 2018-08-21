@@ -1,5 +1,5 @@
 # LTC1392_Arduino_Library
-A simple Arduino Library for the Linear Technology LTC1392 Micropower Temperature, Power Supply and Differential Voltage Monitor.
+A simple Arduino Library for the Linear Technology [LTC1392](http://www.analog.com/media/en/technical-documentation/data-sheets/1392f.pdf) Micropower Temperature, Power Supply and Differential Voltage Monitor.
 
 ## Usage
 To use the library include the header-file and initialize an object as follows:
