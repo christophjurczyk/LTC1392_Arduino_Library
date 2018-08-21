@@ -1,4 +1,4 @@
-# LTC1392_Arduino_Library
+# LTC1392 Arduino Library
 A simple Arduino Library for the Linear Technology [LTC1392](http://www.analog.com/media/en/technical-documentation/data-sheets/1392f.pdf) Micropower Temperature, Power Supply and Differential Voltage Monitor.
 
 ## Usage
