@@ -13,10 +13,10 @@ LTC1392	KEYWORD1
 #######################################
 
 get_temperature	KEYWORD2
-get_supply_voltage KEYWORD2
-get_differential_voltage KEYWORD2
-set_shunt KEYWORD2
-get_current KEYWORD2
+get_supply_voltage	KEYWORD2
+get_differential_voltage	KEYWORD2
+set_shunt	KEYWORD2
+get_current	KEYWORD2
 #######################################
 # Instances (KEYWORD2)
 #######################################
